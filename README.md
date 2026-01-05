@@ -15,4 +15,4 @@
 
 *Made for creators who ship, not shipmen who sail.*
 
-(Contact me)[https://www.linkedin.com/in/bmguerreiro/]
+[Contact me](https://www.linkedin.com/in/bmguerreiro/)
